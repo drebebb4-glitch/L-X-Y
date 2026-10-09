@@ -5,6 +5,10 @@ Nama Proyek : belum tau
 3. 241110506 - Owen Wijaya
 SDGs: SDG 11 - Sustainables Cities and Communities
 
+## Link Demo (hasil run, bukan kode)
+
+https://drebebb4-glitch.github.io/L-X-Y/lumair/ — buka di HP/laptop, langsung jalan.
+
 ## Logbook Pembagian Tugas
 
 | Nama Tugas | NIM | Nama Mahasiswa | Sub Bagian Tugas | Status | Tanggal Deadline | Files | Komentar |
